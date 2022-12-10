@@ -1,0 +1,1 @@
+{"name":"Local: arithmeticArray","url":"/Users/champ/Desktop/ALL/c/C++/arithmeticArray.cpp","tests":[{"id":1664269907420,"input":"10\n5 4 3 2 1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/champ/Desktop/ALL/c/C++/arithmeticArray.cpp","group":"local","local":true}
